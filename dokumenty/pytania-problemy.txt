@@ -1,1 +1,0 @@
-1) czy w projektach komercyjnych można wykorzystywać układy wygenerowane np. w Texas Instruments Power Designer?

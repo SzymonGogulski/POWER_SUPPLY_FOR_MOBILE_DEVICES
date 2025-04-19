@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Zasilacz dla urządzeń mobilnych")
+    (date "19.04.2025")
+    (company "Szymon Gogulski")
+  )
+
   (lib_symbols
     (symbol "10118192-0001LF:10118192-0001LF" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at -5.0862 10.681 0)
