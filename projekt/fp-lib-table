@@ -6,4 +6,5 @@
   (lib (name "10118192-0001LF")(type "KiCad")(uri "C:/Users/szymo/Desktop/NPM/biblioteki/10118192-0001LF")(options "")(descr ""))
   (lib (name "87583-0010RHLF")(type "KiCad")(uri "C:/Users/szymo/Desktop/NPM/biblioteki/87583-0010RHLF")(options "")(descr ""))
   (lib (name "1042P")(type "KiCad")(uri "C:/Users/szymo/Desktop/NPM/biblioteki/1042P")(options "")(descr ""))
+  (lib (name "WE-TCP_3816")(type "KiCad")(uri "C:/Users/szymo/Desktop/NPM/biblioteki/WE-TPC_3816")(options "")(descr ""))
 )

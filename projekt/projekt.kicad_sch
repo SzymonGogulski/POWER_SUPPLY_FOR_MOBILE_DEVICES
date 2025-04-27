@@ -5885,7 +5885,7 @@
     (property "Value" "1u" (at 279.4 91.44 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_SMD:L_Wuerth_WE-TPC-3816" (at 279.4 93.98 0)
+    (property "Footprint" "WE-TCP_3816:WE-TPC_3816" (at 279.4 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 279.4 93.98 0)

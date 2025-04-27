@@ -123,4 +123,9 @@
     (solder_mask_margin 0.102) (tstamp c51fe2f6-6a0d-400d-bd24-397fc414134a))
   (pad "21" smd rect (at 0 0) (size 2.7 2.7) (layers "F.Cu" "F.Mask")
     (solder_mask_margin 0.102) (tstamp 3939e3ad-c406-4c2c-bc16-eb7581b7106f))
+  (model "C:/Users/szymo/Desktop/NPM/biblioteki/MCP73871-2CCI_ML/MCP73871-2CCI_ML.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
