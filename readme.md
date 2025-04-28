@@ -19,10 +19,13 @@ Projekt przedstawia przykład zasilacza dla urządzeń mobilnych. Autor Szymon G
 ***
 
 ### Schemat elektronicznych
-![1](zrzuty_ekranu/schemat.svg)
+![1](zrzuty_ekranu/projekt.svg)
 
 ### Płytka PCB
 ![3](zrzuty_ekranu/PCB.png)
 
 ### Płytka PCB 3D
 ![3](zrzuty_ekranu/PCB_3D.png)
+
+### Płytka PCB 3D
+![3](zrzuty_ekranu/PCB_3D_BOTTOM.png)
